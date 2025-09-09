@@ -89,23 +89,5 @@ This problem simulates a real-world **music intelligence system**, where BPM pre
 
 ---
 
-## 📌 How to Run  
-
-```bash
-# 1. Clone the repo
-git clone https://github.com/your-username/song-bpm-prediction.git
-cd song-bpm-prediction
-
-# 2. Install dependencies
-pip install -r requirements.txt
-
-# 3. Run the training + evaluation script
-python train.py
-
-# 4. Generate predictions
-python predict.py
-
-# 5. Check submission file
-submission.csv
 
 
